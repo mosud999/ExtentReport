@@ -1,9 +1,9 @@
-package com.restassured.project.tutorial;
+package com.extent.report.tutorial;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class ExtentReportTutorial {
+public class ExtentTest {
 
 	ExtentReportConfig extentReportConfig;
 	
